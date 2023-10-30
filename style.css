@@ -59,6 +59,10 @@ nav a {
   font-weight: 500;
 }
 
+nav a:hover {
+  color: #cccccc;
+}
+
 main {
   color: #C2C2C2;
   text-align: center;
